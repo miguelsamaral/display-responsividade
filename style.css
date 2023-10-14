@@ -1,0 +1,79 @@
+body {
+    background-color: gray;
+    margin: 0;
+    padding: 0
+}
+
+.conteiner {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    background-color: rgb(12, 126, 126);
+    padding-top: 1.5rem;
+    padding-bottom: 2rem;
+    align-items: center;
+    
+}
+.logo {
+    display: flex;
+    width: 5rem;
+    height: auto;   
+}
+ul {
+    list-style-type: none;
+    display: flex;
+}
+a {
+    color: white;
+    margin: 20px;
+    text-decoration: none;
+}
+.conteiner2 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 100%;
+      
+}
+
+.box {
+    height: 30vw;
+    width:  60vh;
+    margin: 0;
+}
+
+
+.box_blue {
+    background-color: blue;
+       
+}
+.box_red {
+    background-color: red;
+} 
+.box_green {
+    background-color: green;
+}
+.box_aqua {
+    background-color: aqua;
+     
+}
+.box_orange {
+    background-color: orange;
+      
+}
+.box_black {
+    background-color: black;
+     
+}
+.box_purple {
+    background-color: purple;
+   
+}
+.box_pink {
+    background-color: pink;
+   
+}
+.box_violet {
+    background-color: violet;
+   
+}
